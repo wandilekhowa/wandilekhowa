@@ -101,6 +101,7 @@
         display: block;
         float: left;
         height: 60px;
+        padding:.7px;
     }
 
     #icon, a img, .big{
